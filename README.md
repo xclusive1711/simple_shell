@@ -1,3 +1,3 @@
 THIS IS A SIMPLE SHELL PROJECT CREATED BY XCLUSIVE1711
 
-CONTRIBUTED BY: [QUEEN ETUK](https://github.com/Nations-Light)
+CONTRIBUTED BY: [QUEEN JOSEPH](https://github.com/Nations-Light)
